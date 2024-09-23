@@ -4,9 +4,11 @@ tags: artwork
 title: SCSC in Gold and Black
 artist: Matt Shlian
 artist_url: https://www.mattshlian.com
-img: 2023/coiffure.jpg
-imgthumb: 2023/coiffure_thumb.jpg
-imgurl:
+artist_location: Ann Arbor, Michigan
+img: scsc.jpg
+imgthumb: scsc.jpg
+dimensions: 45.5" x 31" x 2"
+composition: Paper
 
 date: 2023-09-14
 ---
