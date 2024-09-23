@@ -1,18 +1,18 @@
-{% set previousPost = collections.artwork | getPreviousCollectionItem %}
-{% set nextPost = collections.artwork | getNextCollectionItem %}
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }} - Artwork at Snook's Place</title>
+  <title>Breath of Air - Artwork at Snook's Place</title>
   <link rel="stylesheet" href="/css/main.css" />
 
-  <meta property="og:url" content="https://.snook.ca{{ page.url | url }}">
-  <meta property="og:title" content="{{ title }}">
+  <meta property="og:url" content="https://.snook.ca/piece/breath-of-air/">
+  <meta property="og:title" content="Breath of Air">
   <meta property="og:type" content="article">
-  <meta property="og:description" name="description" content="{{ location }}">
-  <meta property="og:image" content="https://photos.snook.ca/img/{{ imgthumb }}">
+  <meta property="og:description" name="description" content="">
+  <meta property="og:image" content="https://photos.snook.ca/img/2023/coiffure_thumb.jpg">
   <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
@@ -25,7 +25,7 @@
           Artwork</a>
     </div>
     <div class="photo-main">
-      <img src="/img/{{ img }}">
+      <img src="/img/2023/coiffure.jpg">
     </div>
     <div class="content">
       <div class="photo-location">
@@ -34,19 +34,21 @@
           <path d="M5.5,18 C7.43856347,15.9791574 11,10.9433321 11,8.1171875 C11,5.29104288 8.53756612,3 5.5,3 C2.46243388,3 0,5.29104288 0,8.1171875 C0,10.9433321 3.53058388,16.052468 5.5,18 Z"></path>
           </g>
         </svg>
-        {{ location }}</div>
-      <h1 class="photo-title">{{title}}</h1>
-      <div class="photo-description">{{ content | safe }}</div>
+        </div>
+      <h1 class="photo-title">Breath of Air</h1>
+      <div class="photo-description"><p>Walking around Paris, looking for delightful coffee shops or a park to sit in, and happen upon a nook or two where a doorway leads to a hidden alcove.
+A hairdresser or a restaurant or some other establishment lies deep within the heart of the city.</p>
+</div>
 
       <div class="photo-meta">
         <div>Photo taken on </div>
         <div>f &bull; &bull; ISO  &bull; </div>
         <div>Taken with the </div>
       </div>
-      <div class="page-date">{{ date | prettyDate }}</div>
+      <div class="page-date">September 14, 2023</div>
     </div>
-    {% if nextPost %}<a href="{{ nextPost.url }}" class="nav nav-previous"><svg viewBox="0 0 12 20" height="20" width="12" xmlns="http://www.w3.org/2000/svg"><polyline points="12,1 1,10 12,20" stroke="currentColor" stroke-width="2" fill="none" /></svg> <span>{{ nextPost.data.title }}</span></a>{% endif %}
-    {% if previousPost %}<a href="{{ previousPost.url }}" class="nav nav-next"><svg viewBox="0 0 12 20" height="20" width="12" xmlns="http://www.w3.org/2000/svg"><polyline points="1,1 12,10 1,20" stroke="currentColor" stroke-width="2" fill="none" /></svg> <span>{{ previousPost.data.title }}</span></a>{% endif %}
+    <a href="/piece/scsc/" class="nav nav-previous"><svg viewBox="0 0 12 20" height="20" width="12" xmlns="http://www.w3.org/2000/svg"><polyline points="12,1 1,10 12,20" stroke="currentColor" stroke-width="2" fill="none" /></svg> <span>SCSC in Gold and Black</span></a>
+    
   </div>
 
 

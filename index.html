@@ -1,6 +1,3 @@
----
-
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,11 +23,7 @@
       Artwork
     </div>
     <div class="content">
-      <div class="photolist">
-      {%- for photo in collections.artwork | reverse -%}
-      <div class="photolist-photo"><a href="{{ photo.url }}"><img loading="lazy" src="/img/{{ photo.data.imgthumb }}" height="200" alt="{{ photo.data.title }}"></a></div>
-      {%- endfor -%}
-      </div>
+      <div class="photolist"><div class="photolist-photo"><a href="/piece/scsc/"><img loading="lazy" src="/img/2023/coiffure_thumb.jpg" height="200" alt="SCSC in Gold and Black"></a></div><div class="photolist-photo"><a href="/piece/breath-of-air/"><img loading="lazy" src="/img/2023/coiffure_thumb.jpg" height="200" alt="Breath of Air"></a></div></div>
     </div>
   </div>
 
