@@ -13,6 +13,10 @@ composition: Print with Acryl-Dibond mounting
 date: 2023-09-14
 ---
 
-Description to come.
+Hegen is an aerial photographer. Those that have seen this piece in my space thought it a painting but it’s actually a photo taken in 2020 of an ash pond in Poland.
 
-N°APSI11
+“After coal is burned in a fossil fuel power plant, the remains are pumped through pipelines into huge ponds. The ponds are used as a landfill to prevent the release of ash into the atmosphere. Ash ponds use gravity to settle out large particulates from power plant wastewater. Often, the ash is mixed with chemicals to support neutralization, that's where the vivid colours come from.”
+
+I appreciate the focus on bringing light to the environmental impacts of the world we live in. 
+
+This is the 11th photo in the Ash Pond Series.

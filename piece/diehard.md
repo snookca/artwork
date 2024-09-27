@@ -13,5 +13,5 @@ composition: Screen print
 date: 2023-09-14
 ---
 
-Description to come.
+I’m a big fan of Die Hard, having seen the move countless times as a teenager working at a movie theatre. It’s become a yearly watch at Christmas for me. When I saw this poster become available for sale, I had to get it. I like the Japanese styling and the barrel of the gun turning into the tower. 
 

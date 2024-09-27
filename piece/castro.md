@@ -13,5 +13,4 @@ composition: Oil on panel
 date: 2023-09-14
 ---
 
-Description to come.
-
+I saw the painting posted on Reddit and liked it so much, I tracked it down and bought it. While not intentional, I like that it’s of San Francisco—even if it’s an area of town I never spent much time in. 
