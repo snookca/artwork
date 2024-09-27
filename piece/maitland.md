@@ -13,5 +13,6 @@ composition: Paint on canvas
 date: 2023-09-14
 ---
 
-Description to come.
+I hired interior designers to help with elements within my (at the time) new apartment. With black and golden yellows featured throughout, the designers picked this out as a possibility for the dining room. It worked for the short term but I eventually moved The Honeymooner’s Bed piece into the dining room, which fits better in that space.
+
 

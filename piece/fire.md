@@ -13,4 +13,4 @@ composition: Oil on canvas
 date: 2023-09-14
 ---
 
-Description to come.
+This piece was originally purchased for my previous home where red was a more prominent colour in the artwork around the house. I liked the bold colour with the strips of blue, and most of all, liked the texture in the piece.
