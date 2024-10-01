@@ -13,7 +13,6 @@ composition: Oil on canvas
 date: 2023-09-14
 ---
 
-With a base of dark walnut and black, I chose yellow as an accent colour. As more yellow entered the space, I felt I needed another 
-colour to balance it with and chose green. I came across this piece that had the right balance of elements and fit well within the space.
+I was looking for a piece of artwork to go in the entryway of my apartment. Having a lot of warm orange yellows in the space at the time, I wanted another accent colour and quickly settled on green. This piece felt just right, with its autumn landscape feel. Its abstract style created the warm ambiance I wanted when people first enter into my home. 
 
 
