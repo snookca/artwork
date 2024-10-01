@@ -13,7 +13,7 @@ composition: Oil on canvas
 date: 2018-09-14
 ---
 
-The story behind this piece is a somewhat amusing one. I was in Wellington with my then-girlfriend, and we saw this piece in a gallery. We both liked the piece but she especially did. 
+The story behind this piece is a somewhat amusing one. I was in Wellington with my then-girlfriend, Kitt Hodsden, and we saw this piece in a gallery. We both liked the piece but she especially did. 
 
 Some years later, I looked into whether the piece was still available. It was not but I was told that I could commission a similar painting (for a similar price as the original) and so I did. The commissioned piece, while indeed similar, didn’t replicate the original, and as it turned out, I was incorrect in how much she liked the original piece. A swing and a miss. 
 
