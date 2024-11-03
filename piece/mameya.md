@@ -7,7 +7,7 @@ artist_url: https://www.geridrawsjapan.com/
 artist_location: United Kingdom
 img: mameya.jpg
 imgthumb: mameya.jpg
-dimensions: 129mm x 294mm
+dimensions: 297mm x 420mm
 composition: Print on paper
 
 date: 2024-10-14
