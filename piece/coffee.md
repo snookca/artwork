@@ -10,7 +10,7 @@ imgthumb: coffee.jpg
 dimensions: 129mm x 294mm
 composition: Print on paper
 
-date: 2023-09-14
+date: 2020-09-16
 ---
 
 Coady did a series of Tokyo cafe illustrations originally commissioned for Standart magazine. "The cafes depicted include 

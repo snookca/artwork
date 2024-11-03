@@ -10,7 +10,7 @@ imgthumb: valley.jpg
 dimensions: 40" x 60"
 composition: Print on paper
 
-date: 2021-09-14
+date: 2021-12-06
 ---
 
 I hired interior designers to help with elements within my (at the time) new apartment. With black and golden yellows featured throughout, the designers picked this out as a possibility. They’re large and fill the space well but I don’t have a strong emotional attachment to them and will likely be replaced eventually by something that speaks to me. 

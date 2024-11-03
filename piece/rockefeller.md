@@ -10,7 +10,7 @@ imgthumb: rockefeller.jpg
 dimensions: 24" x 36"
 composition: Photo print
 
-date: 2023-09-14
+date: 2015-12-15
 ---
 
 I am pretty sure I came across this photo on Reddit and when I found that it was available for download, I grabbed a high resolution graphic file and sent it to a printer.

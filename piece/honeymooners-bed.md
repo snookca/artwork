@@ -10,7 +10,7 @@ imgthumb: honeymooners-bed.jpg
 dimensions: 90 x 180 cm
 composition: Oil on canvas
 
-date: 2018-09-14
+date: 2019-02-08
 ---
 
 The story behind this piece is a somewhat amusing one. I was in Wellington with my then-girlfriend, Kitt Hodsden, and we saw this piece in a gallery. We both liked the piece but she especially did. 

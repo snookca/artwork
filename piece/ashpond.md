@@ -10,7 +10,7 @@ imgthumb: ashpond.webp
 dimensions: 120cm x 180cm
 composition: Print with Acryl-Dibond mounting
 
-date: 2023-09-14
+date: 2021-07-29
 ---
 
 Hegen is an aerial photographer. Those that have seen this piece in my space thought it a painting but it’s actually a photo taken in 2020 of an ash pond in Poland.

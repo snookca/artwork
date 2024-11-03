@@ -10,7 +10,7 @@ imgthumb: wardog.jpg
 dimensions: 297 x 420 mm
 composition: Giclee print on paper
 
-date: 2014-09-14
+date: 2014-02-10
 ---
 
 
