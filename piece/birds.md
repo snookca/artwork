@@ -8,7 +8,7 @@ artist_location: Ontario, Canada
 img: birds.jpg
 imgthumb: birds.jpg
 dimensions: 36" x 48"
-composition: Print on paper
+composition: Oil on canvas
 
 date: 2014-10-14
 ---
